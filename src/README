@@ -1,0 +1,11 @@
+April 10th 2024
+
+Today was fantastic. I could start to visualize how a webpage could be created out of "legoBlocks"
+Components are a neat way of organizing the code by sections of the page, and also by functionality.
+
+The App.js file is like that master file, with a blueprint layout and a bunch of names.
+The other files in the directory called modules, is where the backstage fun happens. 
+Think of it like theatre, you have your "set design crew" and "your lighting crew" and your "sound crew" and your "stage hands crew"
+Inside of each module, is a detailed procedure describing how that team will excute it's job. We call this "functions"
+
+The teams come together on the App.js page and work together to preform a masterpiece called the webpage! They know where to gp, based on where they are located on the App.js file.
